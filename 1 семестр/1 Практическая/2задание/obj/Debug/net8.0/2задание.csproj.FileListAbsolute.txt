@@ -1,0 +1,15 @@
+D:\Обучение\SFU_programming_course\1 семестр\1 практическая\2задание\bin\Debug\net8.0\2задание.exe
+D:\Обучение\SFU_programming_course\1 семестр\1 практическая\2задание\bin\Debug\net8.0\2задание.deps.json
+D:\Обучение\SFU_programming_course\1 семестр\1 практическая\2задание\bin\Debug\net8.0\2задание.runtimeconfig.json
+D:\Обучение\SFU_programming_course\1 семестр\1 практическая\2задание\bin\Debug\net8.0\2задание.dll
+D:\Обучение\SFU_programming_course\1 семестр\1 практическая\2задание\bin\Debug\net8.0\2задание.pdb
+D:\Обучение\SFU_programming_course\1 семестр\1 практическая\2задание\obj\Debug\net8.0\2задание.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\SFU_programming_course\1 семестр\1 практическая\2задание\obj\Debug\net8.0\2задание.AssemblyInfoInputs.cache
+D:\Обучение\SFU_programming_course\1 семестр\1 практическая\2задание\obj\Debug\net8.0\2задание.AssemblyInfo.cs
+D:\Обучение\SFU_programming_course\1 семестр\1 практическая\2задание\obj\Debug\net8.0\2задание.csproj.CoreCompileInputs.cache
+D:\Обучение\SFU_programming_course\1 семестр\1 практическая\2задание\obj\Debug\net8.0\2задание.sourcelink.json
+D:\Обучение\SFU_programming_course\1 семестр\1 практическая\2задание\obj\Debug\net8.0\2задание.dll
+D:\Обучение\SFU_programming_course\1 семестр\1 практическая\2задание\obj\Debug\net8.0\refint\2задание.dll
+D:\Обучение\SFU_programming_course\1 семестр\1 практическая\2задание\obj\Debug\net8.0\2задание.pdb
+D:\Обучение\SFU_programming_course\1 семестр\1 практическая\2задание\obj\Debug\net8.0\2задание.genruntimeconfig.cache
+D:\Обучение\SFU_programming_course\1 семестр\1 практическая\2задание\obj\Debug\net8.0\ref\2задание.dll
